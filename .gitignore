@@ -6,6 +6,8 @@
 *.lo
 *.o
 *.obj
+*.out
+*.exe
 
 # Precompiled Headers
 *.gch
@@ -39,3 +41,6 @@
 
 # debug information files
 *.dwo
+
+# Build directory
+/build
